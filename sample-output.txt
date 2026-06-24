@@ -1,0 +1,26 @@
+Student enrolled successfully.
+Student enrolled successfully.
+Grade assigned successfully.
+Grade assigned successfully.
+
+All Students:
+Student ID: 1001
+Name: Alice
+Grades:
+Data Structures: A
+
+Student ID: 1002
+Name: Bob
+Grades:
+Database Systems: B+
+
+All Courses:
+Course: Data Structures
+Course Code: CS101
+Enrolled Students:
+1001 - Alice
+
+Course: Database Systems
+Course Code: CS202
+Enrolled Students:
+1002 - Bob
